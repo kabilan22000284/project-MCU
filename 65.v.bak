@@ -1,0 +1,3 @@
+module (a,b,y);
+and(y,a,b);
+end module

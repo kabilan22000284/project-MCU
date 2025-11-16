@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/SEC/Documents/project/vkum.v
+source_file = 1, C:/Users/SEC/Documents/project/db/vkum.cbx.xml
+design_name = vkum
+instance = comp, \y~output , y~output, vkum, 1
+instance = comp, \b~input , b~input, vkum, 1
+instance = comp, \a~input , a~input, vkum, 1
+instance = comp, \comb~0 , comb~0, vkum, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, vkum, 1
